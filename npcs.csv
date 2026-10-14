@@ -16578,25 +16578,25 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16576,Pete Kayer,126,1,true,-1,-1,Talk-to;Challenges;Reclaim-items;Information
 16577,Pete Kayer,0,1,true,-1,-1,Talk-to;Quick-exit
 16578,Bowman67,90,1,true,-1,-1,
-16579,Pete Kayer,135,1,true,-1,-1,Attack
-16580,Pete Kayer,135,1,true,-1,-1,Attack
-16581,Pete Kayer,135,1,true,-1,-1,Attack
-16582,Pete Kayer,135,1,true,-1,-1,Attack
-16583,Pete Kayer,135,1,true,-1,-1,Attack
-16584,Pete Kayer,135,1,true,-1,-1,Attack
-16585,Pete Kayer,135,1,true,-1,-1,Attack
-16586,Pete Kayer,135,1,true,-1,-1,Attack
+16579,Pete Kayer,126,1,true,-1,-1,Attack
+16580,Pete Kayer,126,1,true,-1,-1,Attack
+16581,Pete Kayer,126,1,true,-1,-1,Attack
+16582,Pete Kayer,126,1,true,-1,-1,Attack
+16583,Pete Kayer,126,1,true,-1,-1,Attack
+16584,Pete Kayer,126,1,true,-1,-1,Attack
+16585,Pete Kayer,126,1,true,-1,-1,Attack
+16586,Pete Kayer,126,1,true,-1,-1,Attack
 16587,Pete Kayer,0,1,true,-1,-1,Talk-to;Fight;Quick-exit
-16588,Pete Kayer,135,1,true,-1,-1,Attack
-16589,Pete Kayer,135,1,true,-1,-1,Attack
-16590,Pete Kayer,135,1,true,-1,-1,Attack
-16591,Pete Kayer,135,1,true,-1,-1,Attack
-16592,Pete Kayer,135,1,true,-1,-1,Attack
-16593,Pete Kayer,135,1,true,-1,-1,Attack
-16594,Pete Kayer,135,1,true,-1,-1,Attack
-16595,Pete Kayer,135,1,true,-1,-1,Attack
-16596,Pete Kayer,135,1,true,-1,-1,Attack
-16597,Pete Kayer,135,1,true,-1,-1,Attack
+16588,Pete Kayer,126,1,true,-1,-1,Attack
+16589,Pete Kayer,126,1,true,-1,-1,Attack
+16590,Pete Kayer,126,1,true,-1,-1,Attack
+16591,Pete Kayer,126,1,true,-1,-1,Attack
+16592,Pete Kayer,126,1,true,-1,-1,Attack
+16593,Pete Kayer,126,1,true,-1,-1,Attack
+16594,Pete Kayer,126,1,true,-1,-1,Attack
+16595,Pete Kayer,126,1,true,-1,-1,Attack
+16596,Pete Kayer,126,1,true,-1,-1,Attack
+16597,Pete Kayer,126,1,true,-1,-1,Attack
 16598,Blink,126,1,true,-1,-1,
 16599,Dave,126,1,true,-1,-1,
 16600,Double Decimation Daryl,126,1,true,-1,-1,

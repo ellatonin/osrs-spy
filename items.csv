@@ -13240,10 +13240,10 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 13238,Pegasian boots,,75000,1,true,false,true,Take,Drop
 13239,Primordial boots,A pair of upgraded dragon boots.,75000,0,true,true,true,Take,Wear;Drop
 13240,Primordial boots,,75000,1,true,false,true,Take,Drop
-13241,Infernal axe,"A very powerful, fiery hatchet.",99801,2,false,false,true,Take,Wield;Check;Drop
-13242,Infernal axe (uncharged),"A very powerful, fiery hatchet.",99800,0,false,false,true,Take,Wield;Drop
-13243,Infernal pickaxe,"A very powerful, fiery pickaxe.",99801,2,false,false,true,Take,Wield;Check;Drop
-13244,Infernal pickaxe (uncharged),"A very powerful, fiery pickaxe.",99800,0,false,false,true,Take,Wield;Drop
+13241,Infernal axe,"A very powerful, fiery hatchet.",99801,2,false,false,true,Take,Wield;Check;Toggle;Drop
+13242,Infernal axe (uncharged),"A very powerful, fiery hatchet.",99800,0,false,false,true,Take,Wield;Toggle;Drop
+13243,Infernal pickaxe,"A very powerful, fiery pickaxe.",99801,2,false,false,true,Take,Wield;Check;Toggle;Drop
+13244,Infernal pickaxe (uncharged),"A very powerful, fiery pickaxe.",99800,0,false,false,true,Take,Wield;Toggle;Drop
 13245,Jar of Souls,This may be of use for a certain person.,1,0,true,true,true,Take,Drop
 13246,Jar of Souls,,1,1,true,false,true,Take,Drop
 13247,Hellpuppy,A fiery little pup!,1,0,false,false,true,Take,Drop
@@ -21030,9 +21030,9 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 21028,Dragon harpoon,A very powerful harpoon.,55000,0,true,true,true,Take,Wield;Drop
 21029,Dragon harpoon,,55000,1,true,false,true,Take,Drop
 21030,Dragon harpoon,,0,2,false,false,false,Take,Drop
-21031,Infernal harpoon,"A very powerful, fiery harpoon.",99801,2,false,false,true,Take,Wield;Check;Drop
+21031,Infernal harpoon,"A very powerful, fiery harpoon.",99801,2,false,false,true,Take,Wield;Check;Toggle;Drop
 21032,Infernal harpoon,,0,2,false,false,false,Take,Drop
-21033,Infernal harpoon (uncharged),"A formerly powerful, fiery harpoon.",99800,0,false,false,true,Take,Wield;Drop
+21033,Infernal harpoon (uncharged),"A formerly powerful, fiery harpoon.",99800,0,false,false,true,Take,Wield;Toggle;Drop
 21034,Dexterous prayer scroll,Scrawled words that can invoke the power of the gods.,80000,0,true,true,true,Take,Read;Drop
 21035,Dexterous prayer scroll,,80000,1,true,false,true,Take,Drop
 21036,Mallignum root plank,Tekton's old building materials.,2,1,true,false,true,Take,Drop
@@ -25058,14 +25058,14 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 25056,Trailblazer banner,A banner showcasing the colours of Leagues II - Trailblazer.,1000,0,true,true,true,Take,Wield;Drop
 25057,Trailblazer banner,,1000,1,true,false,true,Take,Drop
 25058,Trailblazer banner,,0,2,false,false,false,Take,Drop
-25059,Infernal harpoon (or),"A very powerful, fiery harpoon in the colours of the Trailblazer League.",55000,2,false,false,true,Take,Wield;Check;Revert;Change-Style;Drop
+25059,Infernal harpoon (or),"A very powerful, fiery harpoon in the colours of the Trailblazer League.",55000,2,false,false,true,Take,Wield;Check;Revert;Options;Drop
 25060,Null,null,1,0,false,false,false,Take,Wear;Drop
 25061,Infernal harpoon (or),,0,2,false,false,false,Take,Drop
 25062,null,,1,0,false,false,false,Take,Drop
-25063,Infernal pickaxe (or),"A very powerful, fiery pickaxe in the colours of the Trailblazer League.",97950,2,false,false,true,Take,Wield;Check;Revert;Change-Style;Drop
+25063,Infernal pickaxe (or),"A very powerful, fiery pickaxe in the colours of the Trailblazer League.",97950,2,false,false,true,Take,Wield;Check;Revert;Options;Drop
 25064,Null,null,1,0,false,false,false,Take,Wear;Drop
 25065,Infernal pickaxe (or),,0,2,false,false,false,Take,Drop
-25066,Infernal axe (or),"A very powerful, fiery axe in the colours of the Trailblazer League.",55000,2,false,false,true,Take,Wield;Check;Revert;Change-Style;Drop
+25066,Infernal axe (or),"A very powerful, fiery axe in the colours of the Trailblazer League.",55000,2,false,false,true,Take,Wield;Check;Revert;Options;Drop
 25067,Null,null,1,0,false,false,false,Take,Wear;Drop
 25068,Infernal axe (or),,0,2,false,false,false,Take,Drop
 25069,Graceful hood,A sign of your grace while trailblazing.,35,0,false,false,true,Take,Wear;Dismantle
@@ -25366,11 +25366,11 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 25364,Trailblazer rug,Trailblazer rug,1,0,false,false,false,Take,Drop
 25365,League accomplishments scroll,League Accomplishments Scroll,1,0,false,false,false,Take,Drop
 25366,League hall,League hall,15000,0,false,false,false,Take,Drop
-25367,Infernal harpoon (uncharged),"A formerly powerful, fiery harpoon in the colours of the Trailblazer League.",55000,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
+25367,Infernal harpoon (uncharged),"A formerly powerful, fiery harpoon in the colours of the Trailblazer League.",55000,0,false,false,true,Take,Wield;Revert;Options;Drop
 25368,Infernal harpoon (uncharged),,0,2,false,false,false,Take,Drop
-25369,Infernal pickaxe (uncharged),"A formerly powerful, fiery pickaxe in the colours of the Trailblazer League.",97950,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
+25369,Infernal pickaxe (uncharged),"A formerly powerful, fiery pickaxe in the colours of the Trailblazer League.",97950,0,false,false,true,Take,Wield;Revert;Options;Drop
 25370,Infernal pickaxe (uncharged),,0,2,false,false,false,Take,Drop
-25371,Infernal axe (uncharged),"A formerly powerful, fiery axe in the colours of the Trailblazer League.",55000,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
+25371,Infernal axe (uncharged),"A formerly powerful, fiery axe in the colours of the Trailblazer League.",55000,0,false,false,true,Take,Wield;Revert;Options;Drop
 25372,Infernal axe (uncharged),,0,2,false,false,false,Take,Drop
 25373,Dragon harpoon (or),A very powerful harpoon in the colours of the Trailblazer League.,55000,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
 25374,Dragon harpoon (or),,0,2,false,false,false,Take,Drop
@@ -30341,13 +30341,13 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 30339,Raging echoes relic hunter (t3) armour set,,0,2,false,false,false,Take,Drop
 30340,Crystal dagger (perfected),A crystalline dagger.,30000,0,false,false,true,Take,Wield;Drop
 30341,Crystal dagger (perfected),,0,2,false,false,false,Take,Drop
-30342,Infernal harpoon (or),"A very powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",55000,2,false,false,true,Take,Wield;Check;Revert;Change-Style;Drop
-30343,Infernal harpoon (uncharged),"A formerly powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",55000,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
+30342,Infernal harpoon (or),"A very powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",55000,2,false,false,true,Take,Wield;Check;Revert;Options;Drop
+30343,Infernal harpoon (uncharged),"A formerly powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",55000,0,false,false,true,Take,Wield;Revert;Options;Drop
 30344,null,,1,0,false,false,false,Take,Drop
-30345,Infernal pickaxe (or),"A very powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",97950,2,false,false,true,Take,Wield;Check;Revert;Change-Style;Drop
-30346,Infernal pickaxe (uncharged),"A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",97950,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
-30347,Infernal axe (or),"A very powerful, fiery axe in the colours of the Trailblazer Reloaded League.",55000,2,false,false,true,Take,Wield;Check;Revert;Change-Style;Drop
-30348,Infernal axe (uncharged),"A formerly powerful, fiery axe in the colours of the Trailblazer Reloaded League.",55000,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
+30345,Infernal pickaxe (or),"A very powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",97950,2,false,false,true,Take,Wield;Check;Revert;Options;Drop
+30346,Infernal pickaxe (uncharged),"A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",97950,0,false,false,true,Take,Wield;Revert;Options;Drop
+30347,Infernal axe (or),"A very powerful, fiery axe in the colours of the Trailblazer Reloaded League.",55000,2,false,false,true,Take,Wield;Check;Revert;Options;Drop
+30348,Infernal axe (uncharged),"A formerly powerful, fiery axe in the colours of the Trailblazer Reloaded League.",55000,0,false,false,true,Take,Wield;Revert;Options;Drop
 30349,Dragon harpoon (or),A very powerful harpoon in the colours of the Trailblazer Reloaded League.,55000,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
 30350,null,,1,0,false,false,false,Take,Drop
 30351,Dragon pickaxe (or),A very powerful pickaxe in the colours of the Trailblazer Reloaded League.,97950,0,false,false,true,Take,Wield;Revert;Change-Style;Drop
