@@ -8972,7 +8972,7 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 8970,null,1,1,-1,-1,-1,2,
 8971,null,1,1,-1,-1,-1,2,
 8972,Net trap,1,2,5268,-1,-1,0,
-8973,Net trap,1,2,5271,-1,-1,0,Dismantle;Reset
+8973,Net trap,1,2,5271,-1,-1,0,
 8974,Net trap,1,2,5270,-1,-1,0,
 8975,Dense runestone,5,5,-1,-1,-1,1,Chip
 8976,Depleted runestone,5,5,-1,-1,-1,1,Check
@@ -8987,7 +8987,7 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 8985,Net trap,1,2,5268,-1,-1,0,
 8986,Net trap,1,2,5269,-1,-1,0,Check;Reset
 8987,Net trap,1,2,5270,-1,-1,0,
-8988,Net trap,1,2,5271,-1,-1,0,Dismantle;Reset
+8988,Net trap,1,2,5271,-1,-1,0,
 8989,Young tree,1,1,5267,-1,-1,2,Dismantle;Investigate
 8990,Young tree,1,1,-1,-1,-1,2,Set-trap
 8991,Young tree,1,1,-1,-1,-1,2,
@@ -8997,7 +8997,7 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 8995,Pinball Post,1,1,4005,-1,-1,2,Tag
 8996,Net trap,1,2,5269,-1,-1,0,Check;Reset
 8997,Net trap,1,2,5270,-1,-1,0,
-8998,Net trap,1,2,5271,-1,-1,0,Dismantle;Reset
+8998,Net trap,1,2,5271,-1,-1,0,
 8999,Young tree,1,1,5267,-1,-1,2,Dismantle;Investigate
 9000,Young tree,1,1,-1,-1,-1,2,Set-trap
 9001,Young tree,1,1,-1,-1,-1,2,
@@ -9157,7 +9157,7 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 9155,Globe of Gielinor,1,1,-1,-1,-1,2,
 9156,Study Desk,2,1,-1,-1,-1,2,
 9157,Suit of armour,1,1,-1,-1,-1,2,
-9158,Net trap,1,2,5271,-1,-1,0,Dismantle;Reset
+9158,Net trap,1,2,5271,-1,-1,0,
 9159,Candles,1,1,2564,-1,-1,2,
 9160,Candles,1,1,2564,-1,-1,2,
 9161,Candles,1,1,2564,-1,-1,2,
@@ -9343,11 +9343,11 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 9341,Young tree,1,1,-1,-1,-1,2,Set-trap
 9342,Young tree,1,1,-1,-1,-1,2,
 9343,Net trap,1,1,-1,-1,-1,0,Dismantle;Investigate
-9344,Bird snare,1,1,5170,-1,-1,0,Dismantle
+9344,Bird snare,1,1,5170,-1,-1,0,Dismantle;Reset
 9345,Bird snare,1,1,-1,-1,-1,0,Dismantle;Investigate
 9346,Bird snare,1,1,5169,-1,-1,0,
 9347,Bird snare,1,1,5173,-1,-1,0,
-9348,Bird snare,1,1,5174,-1,-1,0,Check
+9348,Bird snare,1,1,5174,-1,-1,0,Check;Reset
 9349,Bird snare,1,1,5173,-1,-1,0,
 9350,null,1,1,-1,-1,-1,2,
 9351,null,1,1,-1,-1,-1,2,
@@ -9372,13 +9372,13 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 9370,null,1,1,504,2185,-1,1,
 9371,null,1,1,-1,-1,-1,0,
 9372,null,2,2,-1,4772,-1,1,
-9373,Bird snare,1,1,5174,-1,-1,0,Check
+9373,Bird snare,1,1,5174,-1,-1,0,Check;Reset
 9374,Bird snare,1,1,5173,-1,-1,0,
-9375,Bird snare,1,1,5174,-1,-1,0,Check
+9375,Bird snare,1,1,5174,-1,-1,0,Check;Reset
 9376,Bird snare,1,1,5173,-1,-1,0,
-9377,Bird snare,1,1,5174,-1,-1,0,Check
+9377,Bird snare,1,1,5174,-1,-1,0,Check;Reset
 9378,Bird snare,1,1,5173,-1,-1,0,
-9379,Bird snare,1,1,5174,-1,-1,0,Check
+9379,Bird snare,1,1,5174,-1,-1,0,Check;Reset
 9380,Box trap,1,1,-1,-1,-1,0,Dismantle;Investigate
 9381,Box trap,1,1,5175,-1,-1,0,
 9382,Shaking box,1,1,5179,-1,-1,0,Check;Reset
@@ -19223,9 +19223,9 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 19221,Occupied perch,1,1,5203,-1,-1,1,
 19222,Stile,1,2,-1,-1,-1,2,Climb-over;Leave
 19223,Magic box,1,1,5220,-1,-1,0,Deactivate;Investigate
-19224,Magic box failed,1,1,5219,-1,-1,0,Deactivate
+19224,Magic box failed,1,1,5219,-1,-1,0,Deactivate;Reset
 19225,Magic box,1,1,5222,-1,-1,0,
-19226,Magic box,1,1,5221,-1,-1,0,Retrieve
+19226,Magic box,1,1,5221,-1,-1,0,Retrieve;Reset
 19227,Pit,1,1,-1,-1,-1,2,Trap
 19228,Spiked pit,1,1,-1,-1,-1,2,Jump;Dismantle
 19229,Collapsed trap,1,1,-1,-1,-1,2,
@@ -19333,9 +19333,9 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 19331,null,1,1,-1,2972,-1,2,
 19332,null,1,1,-1,2973,-1,2,
 19333,Rabbit snare,1,1,-1,-1,-1,0,Dismantle;Investigate
-19334,Broken snare,1,1,5237,-1,-1,0,Dismantle
-19335,Rabbit snare,1,1,5239,-1,-1,0,Check
-19336,Rabbit snare,1,1,5239,-1,-1,0,Check
+19334,Broken snare,1,1,5237,-1,-1,0,Dismantle;Reset
+19335,Rabbit snare,1,1,5239,-1,-1,0,Check;Reset
+19336,Rabbit snare,1,1,5239,-1,-1,0,Check;Reset
 19337,Rabbit hole,1,1,-1,-1,-1,2,Flush
 19338,Rabbitless hole,1,1,-1,-1,-1,2,
 19339,Plant,1,1,-1,-1,-1,2,Inspect
@@ -50718,7 +50718,7 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 50716,Net trap,1,2,5268,-1,-1,0,
 50717,Net trap,1,2,5269,-1,-1,0,Check;Reset
 50718,Net trap,1,2,5270,-1,-1,0,
-50719,Net trap,1,2,5271,-1,-1,0,Dismantle;Reset
+50719,Net trap,1,2,5271,-1,-1,0,
 50720,Young tree,1,1,5267,-1,-1,2,Dismantle;Investigate
 50721,Young tree,1,1,-1,-1,-1,2,Set-trap
 50722,Young tree,1,1,-1,-1,-1,2,
@@ -62521,3 +62521,15 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 62519,null,1,1,-1,-1,-1,2,
 62520,null,1,1,-1,-1,-1,2,
 62521,null,1,1,-1,-1,-1,2,
+62522,Young tree,1,1,-1,-1,-1,2,Dismantle;Reset
+62523,Net trap,1,1,-1,-1,-1,0,Dismantle;Reset
+62524,Young tree,1,1,-1,-1,-1,2,Dismantle;Reset
+62525,Net trap,1,1,-1,-1,-1,0,Dismantle;Reset
+62526,Young tree,1,1,-1,-1,-1,2,Dismantle;Reset
+62527,Net trap,1,1,-1,-1,-1,0,Dismantle;Reset
+62528,Young tree,1,1,-1,-1,-1,2,Dismantle;Reset
+62529,Net trap,1,1,-1,-1,-1,0,Dismantle;Reset
+62530,Young tree,1,1,-1,-1,-1,2,Dismantle;Reset
+62531,Net trap,1,1,-1,-1,-1,0,Dismantle;Reset
+62532,Portal,1,1,8148,-1,-1,2,Exit
+62533,Pete's crate,1,1,-1,-1,-1,2,Loot;Load-outs

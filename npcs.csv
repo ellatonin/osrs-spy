@@ -16575,3 +16575,58 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16573,Yorkie,0,1,true,-1,-1,Pet;Pick-up
 16574,Yorkie,0,1,true,-1,-1,Pet;Pick-up
 16575,Yorkie,0,1,true,-1,-1,Pet;Pick-up
+16576,Pete Kayer,126,1,true,-1,-1,Talk-to;Challenges;Reclaim-items;Information
+16577,Pete Kayer,0,1,true,-1,-1,Talk-to;Quick-exit
+16578,Bowman67,90,1,true,-1,-1,
+16579,Pete Kayer,135,1,true,-1,-1,Attack
+16580,Pete Kayer,135,1,true,-1,-1,Attack
+16581,Pete Kayer,135,1,true,-1,-1,Attack
+16582,Pete Kayer,135,1,true,-1,-1,Attack
+16583,Pete Kayer,135,1,true,-1,-1,Attack
+16584,Pete Kayer,135,1,true,-1,-1,Attack
+16585,Pete Kayer,135,1,true,-1,-1,Attack
+16586,Pete Kayer,135,1,true,-1,-1,Attack
+16587,Pete Kayer,0,1,true,-1,-1,Talk-to;Fight;Quick-exit
+16588,Pete Kayer,135,1,true,-1,-1,Attack
+16589,Pete Kayer,135,1,true,-1,-1,Attack
+16590,Pete Kayer,135,1,true,-1,-1,Attack
+16591,Pete Kayer,135,1,true,-1,-1,Attack
+16592,Pete Kayer,135,1,true,-1,-1,Attack
+16593,Pete Kayer,135,1,true,-1,-1,Attack
+16594,Pete Kayer,135,1,true,-1,-1,Attack
+16595,Pete Kayer,135,1,true,-1,-1,Attack
+16596,Pete Kayer,135,1,true,-1,-1,Attack
+16597,Pete Kayer,135,1,true,-1,-1,Attack
+16598,Blink,126,1,true,-1,-1,
+16599,Dave,126,1,true,-1,-1,
+16600,Double Decimation Daryl,126,1,true,-1,-1,
+16601,Walter Blue,126,1,true,-1,-1,
+16602,Kinetic Katara,126,1,true,-1,-1,Stop
+16603,Xx I DB0W I xX,126,1,true,-1,-1,
+16604,Xx I DBOW I xX,126,1,true,-1,-1,
+16605,I D CLAW U,113,1,true,-1,-1,
+16606,IM 1 HP GL,113,1,true,-1,-1,
+16607,Sparring partner,126,1,true,-1,-1,Attack
+16608,Sparring partner,126,1,true,-1,-1,Attack;Increase speed;Lower speed
+16609,Sparring partner,126,1,true,-1,-1,Attack;Increase speed;Lower speed
+16610,Sparring partner,126,1,true,-1,-1,Attack;Increase speed;Lower speed
+16611,Sparring partner,97,1,true,-1,-1,
+16612,Sparring partner,101,1,true,-1,-1,
+16613,Sparring partner,67,1,true,-1,-1,
+16614,Sparring partner,111,1,true,-1,-1,
+16615,Sparring partner,83,1,true,-1,-1,
+16616,Sparring partner,92,1,true,-1,-1,
+16617,Sparring partner,122,1,true,-1,-1,
+16618,Kevin,84,1,true,-1,-1,Start-practice;Attack;Toggle prayers;Toggle movement;Stop-practice
+16619,Daniel,102,1,true,-1,-1,Hide
+16620,Rowenna,117,1,true,-1,-1,Hide
+16621,Adam,78,1,true,-1,-1,Hide
+16622,Kimmie,84,1,true,-1,-1,Hide
+16623,Jack,126,1,true,-1,-1,Hide
+16624,Kate,124,1,true,-1,-1,Hide
+16625,Blink,126,1,true,-1,-1,Attack
+16626,Dave,126,1,true,-1,-1,Attack
+16627,Double Decimation Daryl,126,1,true,-1,-1,Attack
+16628,Xx I DBOW I xX,126,1,true,-1,-1,Attack
+16629,Kinetic Katara,126,1,true,-1,-1,Attack
+16630,I D CLAW U,126,1,true,-1,-1,Attack

@@ -34606,3 +34606,42 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 34604,Coins and platinum,Lovely money!,1,0,false,false,false,Take,Drop
 34605,null,,1,1,false,false,false,Take,Drop
 34606,null,,1,1,false,false,false,Take,Drop
+34607,Imbued ancient cape (Deadman),"A cape from an almighty god, imbued with great power.",80000,0,false,false,true,Take,Wear;Drop
+34608,Imbued ancient cape (Deadman),,0,2,false,false,false,Take,Drop
+34609,Karil's leatherskirt,Karil the Tainted's leather skirt.,1,0,true,false,false,Take,Wear;Drop
+34610,Karil's leatherskirt,,1,1,true,false,false,Take,Drop
+34611,Bandos chestplate,A sturdy chestplate.,30,0,true,false,false,Take,Wear;Drop
+34612,Bandos chestplate,,30,1,true,false,false,Take,Drop
+34613,Fighter torso,A Penance Fighter torso armour.,100,0,true,false,false,Take,Wear;Drop
+34614,Fighter torso,,100,1,true,false,false,Take,Drop
+34615,Black d'hide shield,A solid redwood shield covered in black dragon leather.,100,0,true,false,false,Take,Wield;Drop
+34616,Black d'hide shield,,100,1,true,false,false,Take,Drop
+34617,Torva full helm,An ancient warrior's full helm.,100,0,true,false,false,Take,Wear;Drop
+34618,Torva full helm,,100,1,true,false,false,Take,Drop
+34619,Abyssal tentacle,"A weapon from the Abyss, embedded in a slimy tentacle.",100,0,true,false,false,Take,Wield;Drop
+34620,Abyssal tentacle,,100,1,true,false,false,Take,Drop
+34621,Dragon boots,These will protect my feet.,100,0,true,false,false,Take,Wear;Drop
+34622,Dragon boots,,100,1,true,false,false,Take,Drop
+34623,Anglerfish,I hope this tastes better than it looks.,2,0,false,false,false,Take,Eat;Drop
+34624,Anglerfish,,0,2,false,false,false,Take,Drop
+34625,Imbued ancient max cape,The cape worn by only the most experienced players.,99000,0,false,false,true,Take,Wear;Drop
+34626,Imbued ancient max cape,,0,2,false,false,false,Take,Drop
+34627,Imbued ancient max hood,The hood worn by only the most experienced players.,1,0,false,false,true,Take,Wear;Drop
+34628,Imbued ancient max hood,,0,2,false,false,false,Take,Drop
+34629,Imbued ancient max cape (broken),The cape worn by only the most experienced players. This one is broken.,99000,0,false,false,true,Take,Drop
+34630,Imbued ancient max cape (broken),,0,2,false,false,false,Take,Drop
+34631,Net trap,A rope tied onto a small net - genius!,32,1,true,true,true,Take,Drop
+34632,Net trap,,0,2,false,false,false,Take,Drop
+34633,Imbued ancient cape,"A cape from an almighty god, imbued with great power.",80000,0,false,false,true,Take,Wear;Drop
+34634,Imbued ancient cape,,0,2,false,false,false,Take,Drop
+34635,Imbued ancient cape (broken),"A cape from an almighty god, imbued with great power.",80000,0,false,false,true,Take,Drop
+34636,Imbued ancient cape (broken),,0,2,false,false,false,Take,Drop
+34637,Imbued ancient cape (l),"A cape from an almighty god, imbued with great power.",80000,0,false,false,true,Take,Wear;Drop
+34638,Imbued ancient cape (l),,0,2,false,false,false,Take,Drop
+34639,Imbued ancient cape,"A cape from an almighty god, imbued with great power.",80000,0,false,false,true,Take,Wear;Drop
+34640,Imbued ancient cape,,0,2,false,false,false,Take,Drop
+34641,Ancient fabric,A shadowy material that can be used to alter an imbued god cape.,1,0,false,false,true,Take,Drop
+34642,Ancient fabric,,0,2,false,false,false,Take,Drop
+34643,Supply crate,Contains some useful supplies.,1,0,false,false,false,Take,Open;Load-out;Destroy
+34644,Pete's vouchers,I can exchange these with Justine for items.,1,1,false,false,true,Take,Drop
+34645,Pete's vouchers,,0,2,false,false,false,Take,Drop
