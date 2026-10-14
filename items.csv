@@ -34603,3 +34603,6 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 34601,Stray dog,A mangy mutt.,1,0,false,false,true,Take,Drop
 34602,Stuffed dog,Probably good enough to fool a goblin.,300,0,false,false,true,Take,Destroy
 34603,Daeyalt essence,,20,1,true,false,true,Take,Drop
+34604,Coins and platinum,Lovely money!,1,0,false,false,false,Take,Drop
+34605,null,,1,1,false,false,false,Take,Drop
+34606,null,,1,1,false,false,false,Take,Drop
