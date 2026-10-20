@@ -34645,3 +34645,89 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 34643,Supply crate,Contains some useful supplies.,1,0,false,false,false,Take,Open;Load-out;Destroy
 34644,Pete's vouchers,I can exchange these with Justine for items.,1,1,false,false,true,Take,Drop
 34645,Pete's vouchers,,0,2,false,false,false,Take,Drop
+34646,Orion,Reality trembles with their mere presence.,1,0,false,false,true,Take,Drop
+34647,Orion,,0,2,false,false,false,Take,Drop
+34648,Orion,Reality trembles with their mere presence.,1,0,false,false,true,Take,Drop
+34649,Xari,Been through the fire and the flames.,1,0,false,false,true,Take,Drop
+34650,Archie,Your protector.,1,0,false,false,true,Take,Drop
+34651,Chubbles,A gelatinous nightmare that will dissolve anyone or anything that stands in its way.,1,0,false,false,true,Take,Drop
+34652,Cole,He's not a wizard.,1,0,false,false,true,Take,Drop
+34653,Zeke,Lives and dies by the sword.,1,0,false,false,true,Take,Drop
+34654,Mimi,Who needs friends when you can have minions.,1,0,false,false,true,Take,Drop
+34655,Dork,Most intelligent ork.,1,0,false,false,true,Take,Drop
+34656,null,,1,0,false,false,false,Take,Drop
+34657,Alliance's message,A message from the Alliance.,30,0,false,false,true,Take,Read;Destroy
+34658,Archive key,A key-like object made of stone and vines found within the Fractured Archive. What does it open?,30,0,false,false,true,Take,Inspect;Destroy
+34659,Living record (tier 1),"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Scrivener"".",10,0,false,false,true,Take,Wear;Change-style;Drop
+34660,Living record (tier 1),,0,2,false,false,false,Take,Drop
+34661,Living record (tier 2),"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Salvager"".",10,0,false,false,true,Take,Wear;Change-style;Drop
+34662,Living record (tier 2),,0,2,false,false,false,Take,Drop
+34663,Living record (tier 3),"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Prospector"".",10,0,false,false,true,Take,Wear;Change-style;Drop
+34664,Living record (tier 3),,0,2,false,false,false,Take,Drop
+34665,Living record (tier 4),"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Reliquist"".",10,0,false,false,true,Take,Wear;Change-style;Drop
+34666,Living record (tier 4),,0,2,false,false,false,Take,Drop
+34667,Living record (tier 5),"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Antisqüien"".",10,0,false,false,true,Take,Wear;Change-style;Drop
+34668,Living record (tier 5),,0,2,false,false,false,Take,Drop
+34669,Ascension shards,Shards of powerful crystal.,1000,1,true,true,true,Take,Drop
+34670,Ascension shards,,0,2,false,false,false,Take,Drop
+34671,Fragment of living earth,"A mysterious fragment, infused with the power of earth.",30000,0,false,false,true,Take,Break;Drop
+34672,Fragment of living earth,,0,2,false,false,false,Take,Drop
+34673,Fragment of deep water,"A mysterious fragment, infused with the power of water.",30000,0,false,false,true,Take,Break;Drop
+34674,Fragment of deep water,,0,2,false,false,false,Take,Drop
+34675,Fragment of whispering wind,"A mysterious fragment, infused with the power of air.",30000,0,false,false,true,Take,Break;Drop
+34676,Fragment of whispering wind,,0,2,false,false,false,Take,Drop
+34677,Fragment of burning fire,"A mysterious fragment, infused with the power of fire.",30000,0,false,false,true,Take,Break;Drop
+34678,Fragment of burning fire,,0,2,false,false,false,Take,Drop
+34679,Horn of Bran,"Based on text inscribed upon it, it presumably belonged to someone called Bran.",3000000,0,true,true,true,Take,Inspect;Drop
+34680,Horn of Bran,,3000000,1,true,false,true,Take,Drop
+34681,Ascension crossbows,Ancient crossbows formed of powerful crystal.,4000000,0,true,true,true,Take,Wield;Drop
+34682,Ascension crossbows,,4000000,1,true,false,true,Take,Drop
+34683,Ascension crossbows,,0,2,false,false,false,Take,Drop
+34684,Ascension bolts,Bolts chiselled from powerful crystals.,575,1,true,true,true,Take,Wield;Drop
+34685,Ascension bolts,,0,2,false,false,false,Take,Drop
+34686,null,,1,1,false,false,false,Take,Drop
+34687,null,,1,1,false,false,false,Take,Drop
+34688,null,,1,1,false,false,false,Take,Drop
+34689,null,,1,1,false,false,false,Take,Drop
+34690,Diamond ascension bolts,"Bolts chiselled from powerful crystals, tipped with diamond.",1000,1,true,true,true,Take,Wield;Drop
+34691,Diamond ascension bolts,,0,2,false,false,false,Take,Drop
+34692,null,,1,1,false,false,false,Take,Drop
+34693,null,,1,1,false,false,false,Take,Drop
+34694,null,,1,1,false,false,false,Take,Drop
+34695,null,,1,1,false,false,false,Take,Drop
+34696,Diamond ascension bolts (e),"Enchanted bolts chiselled from powerful crystals, tipped with diamond.",1030,1,true,true,true,Take,Wield;Drop
+34697,Diamond ascension bolts (e),,0,2,false,false,false,Take,Drop
+34698,null,,1,1,false,false,false,Take,Drop
+34699,null,,1,1,false,false,false,Take,Drop
+34700,null,,1,1,false,false,false,Take,Drop
+34701,null,,1,1,false,false,false,Take,Drop
+34702,Onyx ascension bolts,"Bolts chiselled from powerful crystals, tipped with onyx.",14050,1,true,true,true,Take,Wield;Drop
+34703,Onyx ascension bolts,,0,2,false,false,false,Take,Drop
+34704,null,,1,1,false,false,false,Take,Drop
+34705,null,,1,1,false,false,false,Take,Drop
+34706,null,,1,1,false,false,false,Take,Drop
+34707,null,,1,1,false,false,false,Take,Drop
+34708,Onyx ascension bolts (e),"Enchanted bolts chiselled from powerful crystals, tipped with onyx.",15950,1,true,true,true,Take,Wield;Drop
+34709,Onyx ascension bolts (e),,0,2,false,false,false,Take,Drop
+34710,null,,1,1,false,false,false,Take,Drop
+34711,null,,1,1,false,false,false,Take,Drop
+34712,null,,1,1,false,false,false,Take,Drop
+34713,null,,1,1,false,false,false,Take,Drop
+34714,null,,1,0,false,false,false,Take,Drop
+34715,Obligator,A huge mace on a writhing vine.,4000000,2,false,false,true,Take,Wield;Check;Charge;Uncharge
+34716,Obligator,,0,2,false,false,false,Take,Drop
+34717,Obligator (uncharged),A huge mace on a writhing vine.,4000000,0,true,true,true,Take,Wield;Charge;Drop
+34718,Obligator (uncharged),,4000000,1,true,false,true,Take,Drop
+34719,Rondache,A finely crafted rondache shield.,4000000,0,true,true,true,Take,Wield;Drop
+34720,Rondache,,4000000,1,true,false,true,Take,Drop
+34721,Rondache,,0,2,false,false,false,Take,Drop
+34722,Archivist's folio (inert),A collection of manuscripts used by Guthixian archivists for convenient travel.,500,0,false,false,true,Take,Read;Charge;Drop
+34723,Archivist's folio,A collection of manuscripts used by Guthixian archivists for convenient travel.,500,2,false,false,true,Take,Read;Charge;Check;Drop
+34724,Archivist's folio,,0,2,false,false,false,Take,Drop
+34725,Zorya's tome,The book is weighed down by all the knowledge it contains.,4000000,2,false,false,true,Take,Wield;Check;Charge;Uncharge
+34726,Zorya's tome,,0,2,false,false,false,Take,Drop
+34727,Zorya's tome (uncharged),The book is weighed down by all the knowledge it contains.,4000000,0,true,true,true,Take,Wield;Charge;Drop
+34728,Zorya's tome (uncharged),,4000000,1,true,false,true,Take,Drop
+34729,Alliance log,A note from the Alliance detailing your progress so far.,1,0,false,false,true,Take,Drop
+34730,Leftovers,The scrapings of congealed leftovers from what was probably a delicious meal.,1,0,false,false,true,Take,Eat;Drop
+34731,null,,1,0,false,false,false,Take,Drop

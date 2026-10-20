@@ -11184,7 +11184,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 11182,Nylocas,0,1,true,-1,-1,
 11183,The Maiden of Sugadinti,324,6,true,-1,-1,
 11184,Pestilent Bloat,312,5,true,-1,-1,
-11185,Nylocas Vasilias,301,4,true,-1,-1,
+11185,Nylocas Vasilias,301,3,true,-1,-1,
 11186,Sotetseg,336,5,true,-1,-1,
 11187,Xarpus,331,5,true,-1,-1,
 11188,Nylocas Athanatos,107,3,true,-1,-1,
@@ -16630,3 +16630,144 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16628,Xx I DBOW I xX,126,1,true,-1,-1,Attack
 16629,Kinetic Katara,126,1,true,-1,-1,Attack
 16630,I D CLAW U,126,1,true,-1,-1,Attack
+16631,Orion,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16632,Orion,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16633,Xari,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16634,Archie,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16635,Chubbles,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16636,Cole,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16637,Zeke,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16638,Mimi,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16639,Dork,0,1,true,-1,-1,Talk-to;Metamorph;Emote;Pick-up
+16640,Bork,871,4,true,-1,-1,Attack
+16641,The Smorks,640,3,true,-1,-1,Attack
+16642,null,1,1,false,-1,-1,
+16643,Dagon'hai Elder,427,2,true,-1,-1,Attack
+16644,Dagon'hai Elder,427,2,true,-1,-1,Attack
+16645,Dagon'hai Monk,427,2,true,-1,-1,Attack
+16646,Dagon'hai Monk,427,2,true,-1,-1,Attack
+16647,Dagon'hai Monk,427,2,true,-1,-1,Attack
+16648,Dagon'hai Monk,427,2,true,-1,-1,Attack
+16649,<col=00ffff>Cauldron</col>,0,3,true,-1,-1,
+16650,Imp,168,1,true,-1,-1,Attack
+16651,<col=00ffff>Demonic rift</col>,0,1,true,-1,-1,
+16652,Ezekiel,984,3,true,-1,-1,Attack
+16653,<col=00ffff>Animated Sword</col>,0,3,true,-1,-1,Attack
+16654,null,0,3,false,-1,-1,
+16655,null,0,1,false,-1,-1,
+16656,<col=00ffff>Sword</col>,0,3,true,-1,-1,
+16657,<col=00ffff>Inert Guardian</col>,0,5,true,-1,-1,Touch
+16658,Archive Guardian,0,5,true,-1,-1,
+16659,Archive Guardian,984,5,true,-1,-1,Attack
+16660,Archive Guardian,984,5,true,-1,-1,Attack
+16661,<col=00ffff>Inert Guardian</col>,0,2,true,-1,-1,
+16662,<col=00ffff>Inert Guardian</col>,0,2,true,-1,-1,Attack
+16663,<col=00ffff>Inert Guardian</col>,0,2,true,-1,-1,
+16664,<col=00ffff>Vine</col>,0,1,true,-1,-1,
+16665,Dreadnoth the Jellied,888,5,true,-1,-1,Attack
+16666,Jelly,101,1,true,-1,-1,Attack
+16667,Moia,1004,3,true,-1,-1,Attack
+16668,null,0,1,false,-1,-1,
+16669,null,0,2,false,-1,-1,
+16670,Undead binder,135,1,true,-1,-1,Attack
+16671,null,0,3,true,16384,-1,Talk-to;Proceed
+16672,Hooded Figure,0,3,true,-1,-1,Talk-to
+16673,Ocellus,0,3,true,-1,-1,Talk-to;Proceed
+16674,Ocellus,1121,3,true,-1,-1,Attack
+16675,null,1197,3,false,-1,-1,
+16676,<col=00ffff>The Blade</col>,0,3,true,-1,-1,Attack
+16677,Ocellus,1197,3,true,-1,-1,Attack
+16678,Void Rift,138,1,true,-1,-1,Attack
+16679,Void Siphon,138,1,true,-1,-1,Attack
+16680,Void Augmenter,138,1,true,-1,-1,Attack
+16681,<col=00ffff>Void Vine</col>,0,1,true,-1,-1,Attack
+16682,Ocellus,1197,3,true,-1,-1,
+16683,<col=00ffff>The Blade</col>,0,3,true,-1,-1,Commune;Travel
+16684,Xarth,912,3,true,-1,-1,Attack
+16685,null,0,2,false,-1,-1,
+16686,null,0,2,false,-1,-1,
+16687,Corpse,89,1,true,-1,-1,Attack
+16688,Corpse,89,1,true,-1,-1,Attack
+16689,null,0,1,false,-1,-1,
+16690,<col=00ffff>Rift</col>,0,3,true,-1,-1,Leave;Quick-leave
+16691,<col=00ffff>Sprite</col>,0,1,true,-1,-1,Look-at
+16692,Record Keeper,0,1,true,-1,-1,Talk-to
+16693,Wizard apprentice,0,1,true,-1,-1,Talk-to
+16694,Druid,38,1,true,-1,-1,
+16695,Druid,38,1,true,-1,-1,
+16696,Armacus Selles,126,1,true,-1,-1,Talk-to
+16697,Eva Cashien,126,1,true,-1,-1,Talk-to
+16698,Ivy Sophista,0,1,true,-1,-1,Talk-to
+16699,Guardian of Armadyl,0,1,true,-1,-1,Talk-to
+16700,Alliance Navigator,0,1,true,-1,-1,Follow;Quick-follow
+16701,null,1,1,true,16426,-1,
+16702,null,1,1,true,16426,-1,
+16703,null,1,1,true,16426,-1,
+16704,Banker,0,1,true,-1,-1,Talk-to;Bank;Collect
+16705,General Montoya,92,1,true,-1,-1,Talk-to
+16706,Alliance builder,0,1,true,-1,-1,
+16707,Alliance builder,0,1,true,-1,-1,
+16708,Alliance builder,0,1,true,-1,-1,
+16709,Alliance builder,0,1,true,-1,-1,
+16710,Temple Knight,83,1,true,-1,-1,
+16711,Temple Knight,83,1,true,-1,-1,
+16712,Temple Knight,83,1,true,-1,-1,
+16713,Temple Knight,83,1,true,-1,-1,
+16714,Temple Knight,62,1,true,-1,-1,
+16715,Temple Knight,62,1,true,-1,-1,
+16716,Druid,38,1,true,-1,-1,
+16717,Druid,38,1,true,-1,-1,
+16718,Guardian of Armadyl,84,1,true,-1,-1,
+16719,Guardian of Armadyl,84,1,true,-1,-1,
+16720,Guardian of Armadyl,84,1,true,-1,-1,
+16721,Guardian of Armadyl,84,1,true,-1,-1,
+16722,Guardian of Armadyl,84,1,true,-1,-1,
+16723,Guardian of Armadyl,84,1,true,-1,-1,
+16724,Armacus Selles,126,1,true,-1,-1,
+16725,Eva Cashien,126,1,true,-1,-1,
+16726,Ivy Sophista,0,1,true,-1,-1,
+16727,Armacus Selles,126,1,true,-1,-1,
+16728,Eva Cashien,126,1,true,-1,-1,
+16729,Ivy Sophista,0,1,true,-1,-1,
+16730,<col=00ffff>Chest</col>,0,3,true,-1,-1,Open
+16731,<col=00ffff>Chest</col>,0,3,true,-1,-1,Search
+16732,<col=00ffff>Chest</col>,0,1,true,-1,-1,Open
+16733,<col=00ffff>Chest</col>,0,1,true,-1,-1,Open
+16734,<col=00ffff>Rift</col>,0,1,true,-1,-1,Search
+16735,<col=00ffff>Rift</col>,0,1,true,-1,-1,Search
+16736,null,0,1,true,16433,-1,
+16737,null,0,1,true,16433,-1,
+16738,null,0,1,true,16433,-1,
+16739,null,0,1,true,16433,-1,
+16740,null,0,1,true,16433,-1,
+16741,null,0,1,true,16433,-1,
+16742,null,0,1,true,16433,-1,
+16743,null,0,1,true,16433,-1,
+16744,null,0,1,true,16433,-1,
+16745,null,0,1,true,16433,-1,
+16746,null,0,1,true,16433,-1,
+16747,null,0,1,true,16433,-1,
+16748,null,0,1,true,16433,-1,
+16749,null,0,1,true,16433,-1,
+16750,null,0,1,true,16433,-1,
+16751,null,0,1,true,16433,-1,
+16752,Sir Lancelot,0,1,true,-1,-1,
+16753,Sir Gawain,0,1,true,-1,-1,
+16754,Sir Kay,0,1,true,-1,-1,
+16755,Sir Bedivere,0,1,true,-1,-1,
+16756,Sir Tristram,0,1,true,-1,-1,
+16757,Sir Pelleas,0,1,true,-1,-1,
+16758,Sir Lucan,0,1,true,-1,-1,
+16759,Sir Palomedes,0,1,true,-1,-1,
+16760,King Arthur,0,1,true,-1,-1,
+16761,Quartermaster,0,1,true,-1,-1,Resupply;Talk-to
+16762,Quartermaster,0,1,true,-1,-1,Talk-to
+16763,Orion,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16764,Orion,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16765,Xari,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16766,Archie,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16767,Chubbles,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16768,Cole,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16769,Zeke,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16770,Mimi,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16771,Dork,0,1,true,-1,-1,Talk-to;Pick-up;Emote
