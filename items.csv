@@ -28598,7 +28598,7 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 28596,Twisted extract,,0,2,false,false,false,Take,Drop
 28597,Mangled extract,"An abyssal extract amplifying the creation of nature, law, astral and death runes.",400,1,false,false,true,Take,Drop
 28598,Mangled extract,,0,2,false,false,false,Take,Drop
-28599,Scarred extract,"An abyssal extract amplifying the creation of blood, soul and wrath runes.",800,1,false,false,true,Take,Drop
+28599,Scarred extract,"An abyssal extract amplifying the creation of blood, soul, wrath and aether runes.",800,1,false,false,true,Take,Drop
 28600,Scarred extract,,0,2,false,false,false,Take,Drop
 28601,Cobweb cape,This is made of the finest spidersilk.,1,0,false,false,false,Take,Wear;Change;Destroy
 28602,Cobweb cape,,0,2,false,false,false,Take,Drop
@@ -34731,3 +34731,19 @@ id,name,examine,cost,stackable,tradeable,geTradeable,members,groundOptions,inven
 34729,Alliance log,A note from the Alliance detailing your progress so far.,1,0,false,false,true,Take,Drop
 34730,Leftovers,The scrapings of congealed leftovers from what was probably a delicious meal.,1,0,false,false,true,Take,Eat;Drop
 34731,null,,1,0,false,false,false,Take,Drop
+34732,Candy onion,Delicious!,1,0,false,false,false,Take,Destroy
+34733,Candy onion,,0,2,false,false,false,Take,Drop
+34734,Sugar,Sweet!,10,0,false,false,false,Take,Destroy
+34735,Sugar,,0,2,false,false,false,Take,Drop
+34736,Molten sugar,A pot of hot molten sugar.,3,0,false,false,false,Take,Destroy
+34737,Molten sugar,,0,2,false,false,false,Take,Drop
+34738,Old onion,"An old, soft and slightly furry onion.",1,0,false,false,false,Take,Destroy
+34739,Old onion,,0,2,false,false,false,Take,Drop
+34740,Vampyre monocle,Similar to the one worn by another pretend vampyre.,1,0,false,false,false,Take,Wear;Destroy
+34741,Vampyre monocle,,0,2,false,false,false,Take,Drop
+34742,Vampyre costume top,This is the outfit of a killer!,1,0,false,false,false,Take,Wear;Destroy
+34743,Vampyre costume top,,0,2,false,false,false,Take,Drop
+34744,Vampyre costume bottom,This is the outfit of a killer!,1,0,false,false,false,Take,Wear;Destroy
+34745,Vampyre costume bottom,,0,2,false,false,false,Take,Drop
+34746,Vampyre costume cape,This is the outfit of a killer!,1,0,false,false,false,Take,Wear;Destroy
+34747,Vampyre costume cape,,0,2,false,false,false,Take,Drop

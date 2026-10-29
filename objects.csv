@@ -50741,6 +50741,7 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 50739,null,1,1,-1,9781,-1,1,Build;Search
 50740,null,1,1,-1,9782,-1,1,Build;Search
 50741,Rewards Chest,3,3,10825,-1,-1,1,Search
+50742,null,1,1,-1,16583,-1,2,
 50743,null,1,1,10816,-1,-1,0,
 50744,null,1,1,-1,-1,-1,0,
 50745,null,1,1,-1,-1,-1,0,
@@ -50768,6 +50769,17 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 50767,null,1,1,-1,-1,-1,1,
 50768,null,1,1,-1,-1,-1,1,
 50769,null,1,1,-1,-1,-1,1,
+50770,null,1,1,-1,16584,-1,2,
+50771,null,1,1,-1,16585,-1,2,
+50772,null,1,1,-1,16610,-1,2,
+50773,null,1,1,-1,16611,-1,2,
+50774,null,1,1,-1,16612,-1,2,
+50775,null,1,1,-1,16613,-1,2,
+50776,null,1,1,-1,16614,-1,2,
+50777,Jack-O-Lantern,1,1,-1,-1,-1,2,Smash
+50778,Jack-O-Lantern,1,1,-1,-1,-1,2,
+50779,Crate of onions,1,1,-1,-1,-1,1,Take-from
+50780,null,1,1,-1,-1,-1,0,
 50820,null,1,1,-1,-1,-1,2,
 50821,null,1,1,-1,-1,-1,2,
 50822,null,1,1,-1,-1,-1,2,

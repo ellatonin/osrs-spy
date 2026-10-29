@@ -3283,8 +3283,8 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 3281,Rusty,2,1,true,-1,-1,Talk-to;Attack;Pickpocket
 3282,Jeff,2,1,true,-1,-1,Talk-to;Attack;Pickpocket
 3283,Guard,19,1,true,-1,-1,Talk-to;Attack;Pickpocket
-3284,Hengel,2,1,true,-1,-1,Talk-to;Attack;Pickpocket
-3285,Anja,2,1,true,-1,-1,Talk-to;Attack;Pickpocket
+3284,Hengel,0,1,true,-1,-1,Talk-to;Pickpocket
+3285,Anja,0,1,true,-1,-1,Talk-to;Pickpocket
 3286,Hobgoblin,28,1,true,-1,-1,Attack
 3287,Hobgoblin,28,1,true,-1,-1,Attack
 3288,Hobgoblin,28,1,true,-1,-1,Attack
@@ -16771,3 +16771,35 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16769,Zeke,0,1,true,-1,-1,Talk-to;Pick-up;Emote
 16770,Mimi,0,1,true,-1,-1,Talk-to;Pick-up;Emote
 16771,Dork,0,1,true,-1,-1,Talk-to;Pick-up;Emote
+16772,null,0,1,true,16615,-1,
+16773,null,0,1,true,16618,-1,
+16774,null,0,1,true,16625,-1,
+16775,null,0,1,true,16626,-1,
+16776,null,1,1,true,16627,-1,
+16777,none,0,1,true,-1,-1,Spook
+16778,Trick or treater,0,1,true,-1,-1,Spook
+16779,Trick or treater,0,1,true,-1,-1,Spook
+16780,Trick or treater,0,1,true,-1,-1,Spook
+16781,Trick or treater,0,1,true,-1,-1,Spook
+16782,Trick or treater,0,1,true,-1,-1,Spook
+16783,null,0,1,false,-1,-1,
+16784,null,0,1,false,-1,-1,
+16785,null,0,1,false,-1,-1,
+16786,null,0,1,false,-1,-1,
+16787,null,0,1,false,-1,-1,
+16788,null,0,1,true,16628,-1,
+16789,null,0,1,true,16636,-1,
+16790,null,0,1,true,16637,-1,
+16791,null,0,1,true,16638,-1,
+16792,null,0,1,true,16645,-1,
+16793,none,0,1,true,-1,-1,
+16794,Trick or treater,0,1,true,-1,-1,Spook
+16795,Trick or treater,0,1,true,-1,-1,Spook
+16796,Trick or treater,0,1,true,-1,-1,Spook
+16797,Trick or treater,0,1,true,-1,-1,Spook
+16798,Trick or treater,0,1,true,-1,-1,Spook
+16799,null,1,1,false,-1,-1,
+16800,Trick or treater,0,1,true,-1,-1,
+16801,Trick or treater,0,1,true,-1,-1,
+16802,Trick or treater,0,1,true,-1,-1,
+16803,Trick or treater,0,1,true,-1,-1,
