@@ -310,7 +310,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 308,Emblem Trader,0,1,true,-1,-1,Talk-to;Rewards;Skull
 309,Reacher,0,1,true,-1,-1,
 310,Ayesha,0,1,true,-1,-1,Talk-to;Pay;Trade
-311,Ironman tutor,0,1,true,-1,-1,Talk-to;Armour;Setup
+311,null,0,1,true,1777,-1,Talk-to;Armour;Setup
 312,Frog,0,1,true,-1,-1,Talk-to;Dismiss
 313,Reacher,0,1,true,-1,-1,
 314,Dr Jekyll,0,1,true,-1,-1,Talk-to;Dismiss
@@ -3215,18 +3215,6 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 3213,Harry,0,1,true,-1,-1,Talk-to;Trade
 3214,Cassie,0,1,true,-1,-1,Talk-to;Trade
 3215,Frincos,0,1,true,-1,-1,Talk-to;Trade
-3216,Melee combat tutor,0,1,true,-1,-1,Talk-to
-3217,Ranged combat tutor,0,1,true,-1,-1,Talk-to;Claim
-3218,Magic combat tutor,0,1,true,-1,-1,Talk-to;Claim
-3219,Cooking tutor,0,1,true,-1,-1,Talk-to
-3220,Crafting tutor,0,1,true,-1,-1,Talk-to
-3221,Fishing tutor,0,1,true,-1,-1,Talk-to
-3222,Mining tutor,0,1,true,-1,-1,Talk-to
-3223,Prayer tutor,0,1,true,-1,-1,Talk-to
-3224,Smithing apprentice,0,1,true,-1,-1,Talk-to
-3225,Master smithing tutor,0,1,true,-1,-1,Talk-to
-3226,Woodsman tutor,0,1,true,-1,-1,Talk-to
-3227,Banker tutor,0,1,true,-1,-1,Talk-to;Bank;Collect
 3228,null,1,1,true,-1,492,
 3229,null,1,1,true,-1,492,
 3230,null,48,1,true,1344,-1,
@@ -4415,8 +4403,8 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 4413,Malcolm,0,1,true,-1,-1,
 4414,Malcolm,0,1,true,-1,-1,
 4415,null,1,1,true,3185,-1,Talk-to
-4416,Tree,0,1,true,-1,-1,
-4417,Undead tree,0,1,true,-1,-1,Chop
+4416,<col=00ffff>Tree</col>,0,1,true,-1,-1,
+4417,<col=00ffff>Undead tree</col>,0,1,true,-1,-1,Chop
 4418,null,85,1,true,3185,-1,
 4419,Sneaky undead fowl,1,1,true,-1,-1,
 4420,Cow31337Killer,123,1,true,-1,-1,
@@ -5045,7 +5033,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 5043,Suit of armour,19,1,true,-1,-1,Attack
 5044,Sanfew,0,1,true,-1,-1,Talk-to
 5045,Kaqemeex,0,1,true,-1,-1,Talk-to
-5046,Cyreg Paddlehorn,0,1,true,-1,-1,Talk-to
+5046,Cyreg Paddlehorn,0,1,true,-1,-1,Talk-to;Travel
 5047,null,1,1,true,7255,-1,
 5048,Veliaf Hurtz,0,1,true,-1,-1,Talk-to
 5049,null,1,1,true,15467,-1,
@@ -5522,7 +5510,6 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 5520,Jarr,0,1,true,-1,-1,Talk-to
 5521,Le-sabrè,0,1,true,-1,-1,Talk-to
 5522,Flax keeper,0,1,true,-1,-1,Talk-to;Exchange
-5523,Hatius Cosaintus,0,1,true,-1,-1,Talk-to
 5524,Sir Rebral,0,1,true,-1,-1,Talk-to
 5525,Toby,0,1,true,-1,-1,Talk-to
 5526,Thorodin,0,1,true,-1,-1,Talk-to
@@ -6772,8 +6759,8 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 6770,null,1,1,true,9632,-1,
 6771,Drew,0,1,true,-1,-1,Talk-to;Claim Sand;Check;Deposit buckets
 6772,null,1,1,true,9632,-1,
-6773,Doomsayer,0,1,true,-1,-1,Talk-to;Toggle warnings
-6774,Doomsayer,0,1,true,-1,-1,Talk-to;Toggle warnings;Remove PvP Protection
+6773,Doomsayer,0,1,true,-1,-1,Talk-to;Toggle-warnings
+6774,Doomsayer,0,1,true,-1,-1,Talk-to;Toggle-warnings;Remove-protection
 6775,Gallow,0,1,true,-1,-1,Talk-to
 6776,Man,0,1,true,-1,-1,Talk-to
 6777,<col=ff9040>Maze Guardian</col>,0,1,true,-1,-1,Observe;Reset
@@ -7478,7 +7465,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 7476,Robert Boss,0,1,true,-1,-1,Talk-to
 7477,Knight of Varlamore,0,1,true,-1,-1,Talk-to
 7478,Hugor,0,1,true,-1,-1,Talk-to
-7479,Lan the Butcher,0,1,true,-1,-1,Talk-to
+7479,null,0,1,true,16800,-1,Talk-to
 7480,Rakkar,0,1,true,-1,-1,Talk-to
 7481,Hopleez,0,1,true,-1,-1,
 7482,Captain Sdiar,0,1,true,-1,-1,Talk-to
@@ -7545,7 +7532,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 7543,Tekton (enraged),0,4,true,-1,-1,Attack
 7544,Tekton (enraged),0,4,true,-1,-1,Attack
 7545,Tekton,0,4,true,-1,-1,Attack
-7546,Bartender,0,1,true,-1,-1,Talk-to
+7546,Bartender,0,1,true,-1,-1,Talk-to;Trade
 7547,null,0,1,true,3075,-1,
 7548,Scavenger beast,0,2,true,-1,-1,Attack
 7549,Scavenger beast,0,2,true,-1,-1,Attack
@@ -8664,7 +8651,6 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 8662,null,0,1,false,-1,-1,
 8663,null,0,1,false,-1,-1,
 8664,null,0,1,false,-1,-1,
-8665,Arthur the Clue Hunter,0,1,true,-1,-1,Talk-to
 8666,Banker,0,1,true,-1,-1,
 8667,Puffer Fish,0,1,true,-1,-1,Catch
 8668,null,0,1,true,8355,-1,
@@ -9854,7 +9840,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 9852,Red,0,1,true,-1,-1,Talk-to;Pick-up
 9853,Ziggy,0,1,true,-1,-1,Talk-to;Pick-up
 9854,null,10,1,false,-1,-1,
-9855,Death,0,2,true,-1,-1,Talk-to;Collect
+9855,Death,0,2,true,-1,-1,Talk-to;Collect;Shop
 9856,Grave,0,1,true,-1,-1,Check;Loot
 9857,Grave,0,1,true,-1,-1,Check;Loot
 9858,null,0,1,true,10464,-1,
@@ -16474,10 +16460,6 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16472,Crab,0,1,true,-1,-1,Talk-to
 16473,Crab,0,1,true,-1,-1,Talk-to
 16474,Crab,0,1,true,-1,-1,Talk-to
-16475,Floatsam,0,1,true,-1,-1,Net
-16476,Floatsam,0,1,true,-1,-1,Net
-16477,Floatsam,0,1,true,-1,-1,Net
-16478,null,0,1,true,15852,-1,
 16479,Crab,0,1,true,-1,-1,Talk-to
 16480,Crab,0,1,true,-1,-1,
 16481,Crab,0,1,true,-1,-1,
@@ -16731,9 +16713,9 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16729,Ivy Sophista,0,1,true,-1,-1,
 16730,<col=00ffff>Chest</col>,0,3,true,-1,-1,Open
 16731,<col=00ffff>Chest</col>,0,3,true,-1,-1,Search
-16732,<col=00ffff>Chest</col>,0,1,true,-1,-1,Open
+16732,<col=00ffff>Chest</col>,0,1,true,-1,-1,
 16733,<col=00ffff>Chest</col>,0,1,true,-1,-1,Open
-16734,<col=00ffff>Rift</col>,0,1,true,-1,-1,Search
+16734,<col=00ffff>Rift</col>,0,1,true,-1,-1,
 16735,<col=00ffff>Rift</col>,0,1,true,-1,-1,Search
 16736,null,0,1,true,16433,-1,
 16737,null,0,1,true,16433,-1,
@@ -16803,3 +16785,75 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16801,Trick or treater,0,1,true,-1,-1,
 16802,Trick or treater,0,1,true,-1,-1,
 16803,Trick or treater,0,1,true,-1,-1,
+16804,Mikasi,0,1,true,-1,-1,Talk-to
+16805,Lan the Butcher,0,1,true,-1,-1,Talk-to
+16806,Feoras,0,1,true,-1,-1,Talk-to;Trade
+16807,Cadmus,0,1,true,-1,-1,Talk-to
+16808,Wilfred,0,1,true,-1,-1,Talk-to
+16809,Monlum,0,1,true,-1,-1,Talk-to
+16810,Finlay,0,1,true,-1,-1,Talk-to
+16811,Arthur,0,1,true,-1,-1,Talk-to
+16812,null,0,1,true,4153,-1,
+16813,Death's Delegate,0,1,true,-1,-1,Talk-to
+16814,Ironman tutor,0,1,true,-1,-1,Talk-to;Armour;Setup
+16815,Hatius Cosaintus,0,1,true,-1,-1,Talk-to
+16816,Sani,0,1,true,-1,-1,Talk-to
+16817,Flotsam,0,1,true,-1,-1,Net
+16818,Flotsam,0,1,true,-1,-1,Net
+16819,Flotsam,0,1,true,-1,-1,Net
+16820,null,0,1,true,15852,-1,
+16821,Captain Harlan,0,1,true,-1,-1,Talk-to;Claim-weapons
+16822,Captain Harlan,0,1,true,-1,-1,
+16823,null,1,1,true,16782,-1,
+16824,null,1,1,true,16782,-1,
+16825,null,1,1,true,16782,-1,
+16826,null,1,1,true,16782,-1,
+16827,null,11,1,true,16782,-1,
+16828,null,11,1,true,16782,-1,
+16829,Mudfoot,0,1,true,-1,-1,Talk-to
+16830,Mudfoot,0,1,true,-1,-1,Talk-to
+16831,Mudfoot,5,1,true,-1,-1,
+16832,Mudfoot,5,1,true,-1,-1,
+16833,null,6,1,true,16779,-1,
+16834,null,6,1,true,16779,-1,
+16835,Outlaw,6,1,true,-1,-1,Confront
+16836,Outlaw,6,1,true,-1,-1,
+16837,Outlaw,6,1,true,-1,-1,Attack
+16838,null,6,1,true,16779,-1,
+16839,Outlaw,6,1,true,-1,-1,Confront
+16840,Outlaw,6,1,true,-1,-1,Attack
+16841,null,8,1,true,16779,-1,
+16842,Outlaw,8,1,true,-1,-1,Confront
+16843,Outlaw,8,1,true,-1,-1,Attack
+16844,Maris,0,1,true,-1,-1,Talk-to
+16845,null,1,1,true,16800,-1,
+16846,null,1,1,true,16800,-1,
+16847,null,1,1,true,16800,-1,
+16848,null,1,1,true,16800,-1,
+16849,null,1,1,true,16800,-1,
+16850,Betty,0,1,true,-1,-1,Talk-to
+16851,Betty,0,1,true,-1,-1,
+16852,Hooded Figure,0,1,true,-1,-1,
+16853,Familiar Voice,0,1,true,-1,-1,
+16854,Betty,0,1,true,-1,-1,
+16855,Betty,0,1,true,-1,-1,
+16856,null,1,1,true,16800,-1,
+16857,null,1,1,true,16800,-1,
+16858,null,1,1,true,16800,-1,
+16859,null,1,1,true,16800,-1,
+16860,null,1,1,true,16800,-1,
+16861,Sergeant Hudson,0,1,true,-1,-1,Talk-to
+16862,Sergeant Hudson,0,1,true,-1,-1,
+16863,null,1,1,true,16800,-1,
+16864,null,1,1,true,16800,-1,
+16865,null,1,1,true,16800,-1,
+16866,Corporal Breiman,0,1,true,-1,-1,Talk-to
+16867,Corporal Breiman,0,1,true,-1,-1,
+16868,null,1,1,true,16800,-1,
+16869,null,1,1,true,16800,-1,
+16870,null,1,1,true,16800,-1,
+16871,Corporal Campter,0,1,true,-1,-1,Talk-to
+16872,Corporal Campter,0,1,true,-1,-1,
+16873,Monk,0,1,true,-1,-1,Talk-to
+16874,Joyce,0,1,true,-1,-1,Talk-to
+16875,Kyle,0,1,true,-1,-1,Talk-to

@@ -2237,7 +2237,6 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 2235,Tomb dolmen,2,2,-1,-1,-1,2,Inspect;Search
 2236,Climbing rocks,1,1,-1,-1,-1,1,Climb
 2237,Palm tree,3,2,-1,-1,-1,2,Search
-2238,null,1,1,-1,-1,-1,2,
 2239,null,4,2,-1,-1,-1,2,
 2240,Carved doors,2,1,-1,-1,-1,2,Open;Search
 2241,Carved doors,2,1,-1,-1,-1,2,Open;Search
@@ -9616,10 +9615,10 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 9614,Table,1,2,-1,-1,-1,2,
 9615,Table,1,1,-1,-1,-1,2,
 9616,Counter,2,1,-1,-1,-1,2,
-9617,Warehouse shelves,1,1,-1,-1,-1,2,
-9618,Warehouse shelves,1,1,-1,-1,-1,2,
-9619,Warehouse shelves,1,1,-1,-1,-1,2,
-9620,Warehouse shelves,1,1,-1,-1,-1,2,
+9617,Shelves,1,1,-1,-1,-1,2,
+9618,Shelves,1,1,-1,-1,-1,2,
+9619,Shelves,1,1,-1,-1,-1,2,
+9620,Shelves,1,1,-1,-1,-1,2,
 9621,Chair,1,1,-1,-1,-1,2,
 9622,Chair,1,1,-1,-1,-1,2,
 9623,null,1,1,-1,-1,-1,2,
@@ -26247,8 +26246,6 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 26245,null,1,1,-1,176,-1,1,
 26246,null,1,1,-1,177,-1,1,
 26247,null,1,1,-1,178,-1,1,
-26248,Tree,1,1,-1,-1,-1,2,Climb
-26249,Tree,1,1,-1,-1,-1,2,Cross-bridge;Climb
 26250,null,3,2,-1,625,-1,2,
 26251,null,3,2,-1,625,-1,2,
 26252,null,3,2,-1,625,-1,2,
@@ -27339,18 +27336,18 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 27337,Table,2,1,-1,-1,-1,1,
 27338,Bed,1,2,-1,-1,-1,1,
 27339,Bed,1,2,-1,-1,-1,1,
-27340,Ivory table,1,1,-1,-1,-1,1,
-27341,Ivory table,1,1,-1,-1,-1,1,
-27342,Ivory table,1,1,-1,-1,-1,1,
-27343,Ivory table,1,1,-1,-1,-1,1,
-27344,Ivory table,1,1,-1,-1,-1,1,
-27345,Ivory table,1,1,-1,-1,-1,1,
-27346,Ivory table,1,1,-1,-1,-1,1,
-27347,Ivory table,1,1,-1,-1,-1,1,
-27348,Ivory table,1,1,-1,-1,-1,1,
-27349,Ivory table,1,1,-1,-1,-1,1,
-27350,Ivory table,1,1,-1,-1,-1,1,
-27351,Ivory table,1,1,-1,-1,-1,1,
+27340,Table,1,1,-1,-1,-1,1,
+27341,Table,1,1,-1,-1,-1,1,
+27342,Table,1,1,-1,-1,-1,1,
+27343,Table,1,1,-1,-1,-1,1,
+27344,Table,1,1,-1,-1,-1,1,
+27345,Table,1,1,-1,-1,-1,1,
+27346,Table,1,1,-1,-1,-1,1,
+27347,Table,1,1,-1,-1,-1,1,
+27348,Table,1,1,-1,-1,-1,1,
+27349,Table,1,1,-1,-1,-1,1,
+27350,Table,1,1,-1,-1,-1,1,
+27351,Table,1,1,-1,-1,-1,1,
 27352,null,5,5,-1,-1,-1,1,
 27353,Table,5,5,-1,-1,-1,1,
 27354,Table,5,5,-1,-1,-1,1,
@@ -27754,9 +27751,9 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 27752,null,1,1,-1,-1,-1,2,
 27753,null,1,1,-1,-1,-1,2,
 27754,Crate,1,1,-1,-1,-1,1,
-27755,Crate,1,1,-1,-1,-1,1,
-27756,Crate,1,1,-1,-1,-1,1,
-27757,Crate,1,1,-1,-1,-1,1,
+27755,Crates,1,1,-1,-1,-1,1,
+27756,Crates,1,1,-1,-1,-1,1,
+27757,Crates,1,1,-1,-1,-1,1,
 27758,Barrel,1,1,-1,-1,-1,1,
 27759,Rowboat,2,3,-1,-1,-1,2,
 27760,Rowboat,2,3,-1,-1,-1,2,
@@ -28526,11 +28523,11 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 28524,Work table,2,2,-1,-1,-1,1,
 28525,Small table,1,1,-1,-1,-1,1,
 28526,Wheely table,1,1,-1,-1,-1,1,
-28527,Velvet stool,1,1,-1,-1,-1,1,
-28528,Velvet stool,1,1,-1,-1,-1,1,
+28527,Stool,1,1,-1,-1,-1,1,
+28528,Stool,1,1,-1,-1,-1,1,
 28529,Chair,1,1,-1,-1,-1,1,
 28530,Wooden chair,1,1,-1,-1,-1,1,
-28531,Velvet round chair,1,1,-1,-1,-1,1,
+28531,Chair,1,1,-1,-1,-1,1,
 28532,Wardrobe,3,1,-1,-1,-1,1,
 28533,Wardrobe,3,1,-1,-1,-1,1,
 28534,Wardrobe,3,1,-1,-1,-1,1,
@@ -31971,8 +31968,8 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 31969,Crystal,2,2,-1,-1,-1,1,
 31970,Crystal,3,3,-1,-1,-1,1,
 31971,Bed,1,2,-1,-1,-1,1,
-31972,Ivory table,1,1,-1,-1,-1,1,
-31973,Ivory table,1,1,-1,-1,-1,1,
+31972,Table,1,1,-1,-1,-1,1,
+31973,Table,1,1,-1,-1,-1,1,
 31974,Brazier,1,1,3107,-1,-1,1,
 31975,Plant,1,1,-1,-1,-1,1,
 31976,null,1,1,-1,-1,-1,2,
@@ -33150,17 +33147,6 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 33148,Shadow crystal,2,2,-1,-1,-1,1,
 33149,Smoke Crystal,4,4,-1,-1,-1,1,
 33150,null,1,1,-1,-1,-1,2,
-33151,null,1,1,-1,-1,-1,2,
-33152,null,1,1,-1,-1,-1,2,
-33153,null,1,1,-1,-1,-1,2,
-33154,null,1,1,-1,-1,-1,2,
-33155,null,1,1,-1,-1,-1,2,
-33156,null,1,1,-1,-1,-1,2,
-33157,null,1,1,-1,-1,-1,2,
-33158,null,1,1,-1,-1,-1,2,
-33159,null,1,1,-1,-1,-1,2,
-33160,null,1,1,-1,-1,-1,2,
-33161,null,1,1,-1,-1,-1,2,
 33162,null,1,1,-1,-1,-1,2,
 33163,null,1,1,-1,-1,-1,2,
 33164,null,1,1,-1,-1,-1,2,
@@ -39550,7 +39536,7 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 39548,Death's Domain,4,2,8750,-1,-1,1,Enter
 39549,Portal,2,2,8750,-1,-1,2,Use
 39550,Death's Coffer,2,2,-1,-1,-1,2,Sacrifice
-39551,null,4,2,6853,-1,-1,2,
+39551,null,2,2,6853,-1,-1,2,
 39552,null,3,1,-1,-1,-1,2,
 39553,null,3,1,-1,-1,-1,2,
 39554,null,2,1,-1,-1,-1,2,
@@ -50780,6 +50766,45 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 50778,Jack-O-Lantern,1,1,-1,-1,-1,2,
 50779,Crate of onions,1,1,-1,-1,-1,1,Take-from
 50780,null,1,1,-1,-1,-1,0,
+50781,null,1,1,-1,16684,-1,2,
+50782,Wall,1,1,-1,-1,-1,0,
+50783,Death's Mirror,1,1,-1,-1,-1,2,Admire
+50784,null,1,1,-1,-1,-1,2,
+50785,null,1,1,-1,-1,-1,2,
+50786,null,1,1,-1,-1,-1,2,
+50787,Tree,1,1,-1,-1,-1,2,Climb
+50788,Tree,1,1,-1,-1,-1,2,Cross-bridge
+50789,null,1,2,-1,16800,-1,2,
+50790,Bed,1,2,-1,-1,-1,2,Search
+50791,Dead Body,1,2,-1,-1,-1,2,Search
+50792,Dead Body,1,2,-1,-1,-1,2,Inspect
+50793,null,1,1,-1,16800,-1,2,
+50794,Blood,1,1,-1,-1,-1,2,
+50795,Blood,1,1,-1,-1,-1,2,Inspect
+50796,null,1,1,-1,16800,-1,2,
+50797,null,1,1,-1,-1,-1,2,
+50798,Shelves,1,1,-1,-1,-1,2,Search
+50799,Bed,1,2,-1,-1,-1,2,Search
+50800,Door,1,1,-1,-1,-1,1,Open
+50801,Door,1,1,-1,-1,-1,1,Open
+50802,Door,1,1,-1,-1,-1,1,
+50803,Window,1,1,-1,-1,-1,1,Climb-through
+50804,null,2,2,-1,16800,-1,1,
+50805,Dead Body,2,2,-1,-1,-1,1,Inspect
+50806,Table,2,2,-1,-1,-1,1,
+50807,null,1,1,-1,16800,-1,2,
+50808,Compost Bin,1,1,-1,-1,-1,2,Search
+50809,Shelves,1,1,-1,-1,-1,2,Search
+50810,Bookcase,1,1,-1,-1,-1,1,Search
+50811,Ladder,1,1,-1,-1,-1,2,Climb
+50812,null,1,1,-1,16834,-1,1,
+50813,Wall,1,1,-1,-1,-1,1,Remove-plank
+50814,Wall,1,1,-1,-1,-1,1,Climb-over
+50815,null,1,1,-1,16800,-1,1,
+50816,Armour stand,1,1,-1,-1,-1,1,
+50817,Dead Body,1,1,-1,-1,-1,1,Inspect
+50818,null,1,1,-1,16800,-1,2,
+50819,null,1,2,-1,16800,-1,2,
 50820,null,1,1,-1,-1,-1,2,
 50821,null,1,1,-1,-1,-1,2,
 50822,null,1,1,-1,-1,-1,2,
@@ -63267,3 +63292,30 @@ id,name,sizeX,sizeY,animationId,varbitId,varpId,interactType,options
 63304,null,1,1,-1,-1,-1,0,
 63305,null,1,1,-1,-1,-1,0,
 63306,null,1,1,-1,-1,-1,0,
+63307,Drawers,1,2,-1,-1,-1,2,
+63308,Drawers,1,2,-1,-1,-1,2,Inspect
+63309,null,1,1,-1,16800,-1,2,
+63310,Blood,1,1,-1,-1,-1,2,Inspect
+63311,null,1,1,-1,16800,-1,1,
+63312,null,1,1,-1,-1,-1,1,
+63313,null,1,1,-1,-1,-1,1,
+63314,Wardrobe,1,1,-1,-1,-1,2,Search
+63315,Bed,2,3,-1,-1,-1,2,Search
+63316,null,2,3,-1,16800,-1,1,
+63317,Bed,2,3,-1,-1,-1,1,
+63318,Dead Body,2,3,-1,-1,-1,1,Inspect
+63319,null,1,1,-1,16800,-1,2,
+63320,null,1,1,-1,16800,-1,2,
+63321,Blood,1,1,-1,-1,-1,2,Inspect
+63322,Shelves,1,1,-1,-1,-1,2,Search
+63323,null,1,1,-1,16800,-1,2,
+63324,null,1,1,-1,-1,-1,2,
+63325,Plant,2,2,-1,-1,-1,2,Inspect
+63326,Ladder,1,1,-1,-1,-1,2,Climb-up
+63327,null,1,1,-1,16800,-1,2,
+63328,Blood,1,1,-1,-1,-1,2,Inspect
+63329,Desk,3,1,-1,-1,-1,1,
+63330,Bed,1,2,-1,-1,-1,2,
+63331,null,4,2,-1,-1,-1,2,
+63332,Market stall,2,2,-1,-1,-1,2,
+63333,Market stall,2,2,-1,-1,-1,2,
