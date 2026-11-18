@@ -1258,7 +1258,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 1256,Evil Creature,0,1,true,-1,-1,Attack
 1257,fluffie,0,1,true,-1,-1,
 1258,fluffie,0,1,true,-1,-1,
-1259,Odd Old Man,0,2,true,-1,-1,Talk-to
+1259,null,0,1,true,16877,-1,Talk-to
 1260,Fortunato,0,1,true,-1,-1,Talk-to;Trade
 1261,Ram,2,1,true,-1,-1,Attack
 1262,Ram,2,1,true,-1,-1,Attack
@@ -3215,6 +3215,18 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 3213,Harry,0,1,true,-1,-1,Talk-to;Trade
 3214,Cassie,0,1,true,-1,-1,Talk-to;Trade
 3215,Frincos,0,1,true,-1,-1,Talk-to;Trade
+3216,null,0,1,true,10992,-1,
+3217,Farmer Bea,0,1,true,-1,-1,Talk-to
+3218,Farmer Bea,0,1,true,-1,-1,Talk-to;Trade;Swap-darts
+3219,null,1,1,true,10992,-1,
+3220,Bee dealer,0,1,true,-1,-1,Talk-to
+3221,Farmer Bea,0,1,true,-1,-1,
+3222,Swarm of wasps,0,1,true,-1,-1,
+3223,Swarm of killer wasps,0,1,true,-1,-1,
+3224,Honey Buzzard,0,1,true,-1,-1,
+3225,Black Honey Buzzard,0,1,true,-1,-1,
+3226,Swarm of wasps,0,1,true,-1,-1,Catch
+3227,Swarm of wasps (furious),0,1,true,-1,-1,Spray
 3228,null,1,1,true,-1,492,
 3229,null,1,1,true,-1,492,
 3230,null,48,1,true,1344,-1,
@@ -5510,6 +5522,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 5520,Jarr,0,1,true,-1,-1,Talk-to
 5521,Le-sabrè,0,1,true,-1,-1,Talk-to
 5522,Flax keeper,0,1,true,-1,-1,Talk-to;Exchange
+5523,Swarm of killer wasps,0,1,true,-1,-1,Catch
 5524,Sir Rebral,0,1,true,-1,-1,Talk-to
 5525,Toby,0,1,true,-1,-1,Talk-to
 5526,Thorodin,0,1,true,-1,-1,Talk-to
@@ -8582,7 +8595,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 8593,Rabbit,0,1,true,-1,-1,
 8594,Cat,0,1,true,-1,-1,Pet
 8595,Felfiz Yaryus,0,1,true,-1,-1,Talk-to
-8596,Keith,0,1,true,-1,-1,Talk-to
+8596,null,0,1,true,16861,-1,
 8597,null,1,1,true,696,-1,
 8598,<col=00ffff>Ornate combat dummy</col>,0,1,true,-1,-1,Attack;Detach;Swap;Remove
 8599,Soldier,0,1,true,-1,-1,
@@ -8651,6 +8664,7 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 8662,null,0,1,false,-1,-1,
 8663,null,0,1,false,-1,-1,
 8664,null,0,1,false,-1,-1,
+8665,Swarm of killer wasps (furious),0,1,true,-1,-1,Spray
 8666,Banker,0,1,true,-1,-1,
 8667,Puffer Fish,0,1,true,-1,-1,Catch
 8668,null,0,1,true,8355,-1,
@@ -16460,6 +16474,10 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16472,Crab,0,1,true,-1,-1,Talk-to
 16473,Crab,0,1,true,-1,-1,Talk-to
 16474,Crab,0,1,true,-1,-1,Talk-to
+16475,null,0,1,true,16841,-1,
+16476,null,0,1,true,16842,-1,
+16477,null,0,1,true,16843,-1,
+16478,null,0,1,true,16844,-1,
 16479,Crab,0,1,true,-1,-1,Talk-to
 16480,Crab,0,1,true,-1,-1,
 16481,Crab,0,1,true,-1,-1,
@@ -16753,38 +16771,6 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16769,Zeke,0,1,true,-1,-1,Talk-to;Pick-up;Emote
 16770,Mimi,0,1,true,-1,-1,Talk-to;Pick-up;Emote
 16771,Dork,0,1,true,-1,-1,Talk-to;Pick-up;Emote
-16772,null,0,1,true,16615,-1,
-16773,null,0,1,true,16618,-1,
-16774,null,0,1,true,16625,-1,
-16775,null,0,1,true,16626,-1,
-16776,null,1,1,true,16627,-1,
-16777,none,0,1,true,-1,-1,Spook
-16778,Trick or treater,0,1,true,-1,-1,Spook
-16779,Trick or treater,0,1,true,-1,-1,Spook
-16780,Trick or treater,0,1,true,-1,-1,Spook
-16781,Trick or treater,0,1,true,-1,-1,Spook
-16782,Trick or treater,0,1,true,-1,-1,Spook
-16783,null,0,1,false,-1,-1,
-16784,null,0,1,false,-1,-1,
-16785,null,0,1,false,-1,-1,
-16786,null,0,1,false,-1,-1,
-16787,null,0,1,false,-1,-1,
-16788,null,0,1,true,16628,-1,
-16789,null,0,1,true,16636,-1,
-16790,null,0,1,true,16637,-1,
-16791,null,0,1,true,16638,-1,
-16792,null,0,1,true,16645,-1,
-16793,none,0,1,true,-1,-1,
-16794,Trick or treater,0,1,true,-1,-1,Spook
-16795,Trick or treater,0,1,true,-1,-1,Spook
-16796,Trick or treater,0,1,true,-1,-1,Spook
-16797,Trick or treater,0,1,true,-1,-1,Spook
-16798,Trick or treater,0,1,true,-1,-1,Spook
-16799,null,1,1,false,-1,-1,
-16800,Trick or treater,0,1,true,-1,-1,
-16801,Trick or treater,0,1,true,-1,-1,
-16802,Trick or treater,0,1,true,-1,-1,
-16803,Trick or treater,0,1,true,-1,-1,
 16804,Mikasi,0,1,true,-1,-1,Talk-to
 16805,Lan the Butcher,0,1,true,-1,-1,Talk-to
 16806,Feoras,0,1,true,-1,-1,Talk-to;Trade
@@ -16857,3 +16843,51 @@ id,name,combatLevel,size,interactable,varbitId,varpIndex,options
 16873,Monk,0,1,true,-1,-1,Talk-to
 16874,Joyce,0,1,true,-1,-1,Talk-to
 16875,Kyle,0,1,true,-1,-1,Talk-to
+16876,null,0,1,true,16845,-1,
+16877,null,0,1,true,16846,-1,
+16878,null,0,1,true,10992,-1,
+16879,Honey Buzzard,0,1,true,-1,-1,
+16880,null,0,1,true,10992,-1,
+16881,Black Honey Buzzard,0,1,true,-1,-1,
+16882,Juvenile Snail,0,1,true,-1,-1,Talk-to
+16883,Leech,39,1,true,-1,-1,Attack
+16884,SnelmLover500,0,1,true,-1,-1,Talk-to
+16885,SnelmLover500,50,1,true,-1,-1,Attack
+16886,Keith,0,1,true,-1,-1,Talk-to
+16887,null,0,1,true,16861,-1,
+16888,Dishop Dennis,0,1,true,-1,-1,Talk-to
+16889,Sir Loin,52,1,true,-1,-1,Attack
+16890,Fermenter of chaos,53,1,true,-1,-1,Attack
+16891,Goblin meat tenderiser,50,1,true,-1,-1,Attack
+16892,Gardener of Armadyl,64,1,true,-1,-1,Attack
+16893,Bandit cactus cultivator,57,1,true,-1,-1,Attack
+16894,null,0,1,true,16877,-1,Talk-to
+16895,Odd Old Man,0,1,true,-1,-1,Talk-to
+16896,Odd Old Man,0,1,true,-1,-1,Talk-to
+16897,Death,0,2,true,-1,-1,Talk-to
+16898,Romeo,0,1,true,-1,-1,Talk-to
+16899,Gielinor Guide,0,1,true,-1,-1,Talk-to
+16900,Survival Expert,0,1,true,-1,-1,Talk-to
+16901,Fishing spot,0,1,true,-1,-1,Catch
+16902,King Roald,0,1,true,-1,-1,Talk-to
+16903,Lost Soul,10,1,true,-1,-1,Attack
+16904,Archmage Sedridor,0,1,true,-1,-1,Talk-to
+16905,Archmage Sedridor,7,1,true,-1,-1,Attack
+16906,Wizard Traiborn,0,1,true,-1,-1,Talk-to
+16907,Wizard Traiborn,0,1,true,-1,-1,Talk-to
+16908,Tolna,0,1,true,-1,-1,Talk-to
+16909,Tolna,75,3,true,-1,-1,Attack
+16910,Tolna,75,3,true,-1,-1,Attack
+16911,Tolna,75,3,true,-1,-1,Attack
+16912,Skeletal Horror,220,3,true,-1,-1,Attack
+16913,Skeletal Horror,220,3,true,-1,-1,
+16914,Horrifying Creature,0,3,true,-1,-1,Talk-to
+16915,Odd Old Man,0,1,true,-1,-1,
+16916,Odd Old Man,0,1,true,-1,-1,
+16917,Shade,102,1,true,-1,-1,Attack
+16918,Shadow,0,1,true,-1,-1,
+16919,Ancient Banshee,113,2,true,-1,-1,Attack
+16920,null,1,1,true,15152,-1,
+16921,Ghost,0,1,true,-1,-1,Talk-to
+16922,<col=00ffff>Shadow Rift</col>,0,1,true,-1,-1,Attack
+16923,Skeletal Hand,71,2,true,-1,-1,Attack
